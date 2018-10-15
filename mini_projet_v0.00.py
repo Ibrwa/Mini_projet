@@ -2,40 +2,56 @@
 """
 Created on Wed Oct  3 08:28:56 2018
 
-@author: Utilisateur
+@author: ibrwa
 """
 
+###########################################################################
+# Application : find citys in 'baie de saint de michel' cited in survey   #
+# Survey      : TOURS                                                     #
+# Program name: mini_projet_v0.00.py                                      #
+# Description : version with no relative so it can runed by anyone        #
+#________________________________________________________________         #
+# Localisation: https://github.com/Ibrwa/Mini_projet/mini_projet_v0.00.py #           #
+# Developped     : Under spyder in Windows                                #
+#________________________________________________________________         #
+# Creation    : 10/10/2018 by Ibrwa                                       #    
+# Last Updated: 15/10/2018 remove relative path in importing files		  #
+#________________________________________________________________         #
+
+
+### Import the library 
 
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt, matplotlib
 
-
+## Use nice style of ggplot
 matplotlib.style.use('ggplot')
 
-### caracteres de ponctuations
+### define ponctuation caracters==> can be enhcanced !!
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~ '''
 
-### Lire les donnees des communes 
 
-communes = pd.read_csv("C:\\Users\\Utilisateur\\Documents\\Python\\data\\correspondance-code-insee-code-postal.csv",
+## Read the data that contains all city (commune) in France. Can be found in insee website
+
+communes = pd.read_csv("correspondance-code-insee-code-postal.csv",
                        delimiter=";",
                        usecols = [1,2,3,4,15,16],
                        dtype = 'object')
 
 
-### Filtrer uniquement sur les departements 35 et 50
+### filter only in departement of interest : ie 50 and 35 which contain the city of 'baie de saint michel'
 
 communes = communes.loc[(communes['code_departement'] =='50') | (communes['code_departement'] =='35')]
 
-### Lecture des donnes sources ####
+### read the data source of survey 
 
-msm_ods = pd.read_csv("C:\\Users\\Utilisateur\\Documents\\Python\\data\\MSM.txt",
+msm_ods = pd.read_csv("MSM.txt",
                       delimiter=";",
                       dtype={'id':int,'villes':'object'})
 
 ######################################################################
-## Traitement des données du fichier de reponses ###
+## processing the survey data ###
 ######################################################################
 
 ### changer les valeurs des lignes en miniscule et enlever les accents 
@@ -47,6 +63,9 @@ msm_ods['villes'] = msm_ods['villes'].str.lower()
 ### on definit une fonction qui permet de remplacer un caracter par un autre
 
 def replacement(s,source,target):
+    """
+    This function help us to remove all specific french caracteres so we can made the match easiky
+    """
     return s.replace(source,target)
 
 ## On applique notre fonction a nos donnees 
