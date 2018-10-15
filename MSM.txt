@@ -1,0 +1,279 @@
+id;villes
+1;Cherrueix,Roz/coesnon, ardevon, le Vivier/mer,St benoît des ondes
+2;??????????
+3;Avranches, Pontorson, Genêts, Pontaubault, Roz sur Couesnon
+4;Granville,Avranches,Saint Jean le Thomas,Dragey,Carolles
+5;cancale, le val saint père, genêt, Avranches, pontorson
+6;Avranche pontorson granville genets donville stpair
+7;Saint pair, st jean le thomas, jullouville,. genêt, pontorson.
+8;Cancale,Granville,Jullouville,Avranches
+9;Saint-père sur Mer, Jullouville, Carolles, Genêts, Saint- jean le Thomas,  .....
+10;St Benoit des Ondes, Cancale, Granville, Cherrueix, Le Vivier/Mer
+11;GRANVILLE-  AVRANCHES  -   VILLEDIEU LES POELES -   LE MORTAINAIS  - MONT SAINT MICHEL
+12;St jean le Thomas Dragey  Granville,St Benoit des Ondes, Julouville
+13;Cancale, Dol de Bretagne, Avranches, Jullouville, , Granville
+14;Beauvoir, Pontorson, Courtils, Le Mont saint Michel
+15;Avranches, Cancale. Dol de Bretagne
+16;Granville ,Avranches,Pontorson,Ducey,Saint-Jean-le-Thomas
+17;beauvoir   genet granville  avranches   st jean de thomas hirel
+18;Avranches, Le Val Saint père, Vains, Gênets, Pontaubault
+19;Avranches, Genêts, Carolles, Le Vivier sur Mer, Saint Jean le Thomas
+20;granville jullouville carolles genets St jean le thomas
+21;Granville,Avranches,Le Val-st_père,Cancale,Jullouville
+22;Avranche Pontorson Dol de Bretagne La Haye Pesnel Saint Broladre
+23;Genet avaranche carolles st jean le thomas jullouville granville
+24;Champeaux, Vains, Huisnes-sur-Mer
+25;avranches - vivier sur mer - hirel - pontorson - beauvoir
+26;Avranches,Saint Malo,Dinard,Dinan,Cancale
+27;Granville Genets Champeaux Caroles Saint pair
+28;Avranches, pontaubeau, saint léonard,  carolles
+29;avranches - Pontorson - le vivier sur mer - roz sur Couesnon - dragey
+30;Granville Cancale Jullouville
+31;Carolles, Genêts, Avranches, pontorson, Granville. ..
+32;Granville - Villedieu-les-Poêles - Avranches - Carolles - Pontorson
+33;Saint Malo,Cancale ,Dinan,Dinard
+34;Avranches, Vains, Genêts, Dragey, Marcey les grèves....
+35;St jean le thomas, Genets, Carolles, St Leonard, Courtils
+36;Courtils Huisnes sur mer Beauvoir Ardevon
+37;Avranches-Courtil- Pontorson- Genêts- Granville
+38;je n'en sais rien !je vais le visiter le 15mars !
+39;Avranches, Genest , dragey, saint jean le Thomas , Jullouville, granville, pontorso, saint pair sur mer, vains,
+40;Genêts, St Jean le Thomas,avranches pontaubault, champeaux, St léonard
+41;Beauvoir. Cancale. Pontorson
+42;falaise de champeau + pte du grouin + cherrrueix+la point du roc + mrre du bouillon
+43;Pontorson Cherrueix Cancale Jullouville Saint-Marcan
+44;Avranches, vains, genets, pontaubault, courtils
+45;Granville villedieu les poêles Le mont st Michel
+46;Pontorson, Avranches, Granville, Cancale
+47;Granville ,Avranches ,Dol de Bretagne
+48;Genet,Cancale,Cherrueix,Avranches ,Mont St Michel
+49;Genêts, Cherrueix
+50;Granville, Avranches, Villedieu, Cancale
+51;st jean le thomas, cancale, granville ,jullouville, st benoit des ondes
+52;Dol-de-Bretagne, Saint-Méloir-des-Ondes, Avranches, Granville, Donville-les-Bains.
+53;Carolles, Cancale, Céaux, Pontorson, Genêts
+54;Beauvoir, Avranches, Pontorson, Mont- Dol, Villedieu les poêles
+55;Granville , Carteret , Bréhal , Avranches , Saint Lô  .
+56;vivier sur mer, cherrueix, avranches, beauvoir vains
+57;Roz Sur Couesnon, Carolles, Avranches
+58;Avranches granville cancale
+59;Pontorson,Beauvoir,Precey,Saint-James,
+60;Avranches, Dinan, Dol de Bretagne, Granville, Villedieu les Poeles
+61;Avranches - Pontorson - Ducey - Granville - Bréhal
+62;Avranches Granville Pontorson caroles  Saint pair sur mer
+63;Beauvoir. Vivier sur mer. Genêts. Saint Léonard. Vains.
+64;Avranches, pontorson, Marcey les grèves, genêts, courtils
+65;Avranches, Granville, Carolles, Saint-Jean le Thomas, Genêts
+66;Granville  avranches jullouville  saint paire sur mer  saint Jean le Thomas .
+67;Avranche,Grandville,Pontorson
+68;avranches, saint jean le thomas, genêts, ceaux, vains
+69;jullouville granville ducey
+70;Avranches - Granville - Julouville - Cancale - St Malo  
+71;Granville Avranches Cancale Villedieu les Poeles
+72;Saint Jean le Thomas, Champeaux , Carolles, Genêts,
+73;Avranches  Pontorson Saint-James Dol de Bretagne  Genets
+74;Cancale Le Vivier sur mer Beauvoir .le Val st père Pontorson
+75;Cancale,pontorson, avranches,le mont St Michel ,roz sur couesnon
+76;Avranches, Granville, Cancale, Pontorson, Saint-Malo
+77;Hirel, Champeaux,  Saint Benoît des Ondes , Beauvoir , Huisnes sur Mer, St Léonard,
+78;genets,pontaubault,st leonard,beauvoir
+79;Beauvoir, le mont saint michel, courtils, carolles, champeaux
+80;granville, cancale, vivier sur mer, avranche, le mont st michel,
+81;Avranches,Saint-Malo,Granville,Cancale,Pontorson
+82;huisnes sur mer, cherrueix, le vivier sur mer, avranches, dol de bretagne
+83;Carolles Avranches Pontorson  Cancale    
+84;Saint malo, pontaultbaut, saint jean le thomas, beauvoir et dragey
+85;Avranches Vains Granville Cancale Cherrueix
+86;Genêts, Dragey-Ronthon, Carolles, Pontorson, Saint Jean le Thomas
+87;Cancale ,Avranches ,St Pair Sur Mer ,Granville
+88;avranches, genêts,cherrueix, cancale,saint jean le thomas.
+89;Granville/ saint père /Cancale /Julouville/Pontorson
+90;Avranches Granville ,Villedieu les poêles ,Saint-Pair
+91;Avranches, Granville,Villedieu-les-poëles
+92;Pontorson ,St Malo,Dol de Bretagne
+93;Pontorson, avranches, genêts, saint jean le thomas, courtils, pontaubault, le val st père, vains-saint léonard, Sartilly, champeaux, carolles,
+94;Avranches,Granville,Genets,Jullouville,Saint Jean le Thomas
+95;CANCALE ST MALO GRANVILLE AVRANCHES ST PAIR SUR MER
+96;Avranches,Granville,Genets,Saint Jean le Thomas,Jullouville
+97;avranches , cancale, granville, le val st père,  pontaubault
+98;Pontorson, st Jean de thomas , dragée , carolles,jullouville ,
+99;Beauvoir Pontorson Genêts
+100;Granville, cancale, St Jean de Thomas, saint pair sur mer, Mont saint Michel
+101;Pontorson avranche roz sur couesnon beauvoir ceaux
+102;Courtils ,avranches ,genêts  ,st meloir des Ondes ,le Mont St Michel
+103;Beauvoir,huisnes sur mer,genêts,Tanis,courtils
+104;AVRANCHES,JULLOUVILLE ,SAINT JAMES,PONTORSON,CHAMPEAUX
+105;Granville,cancale,vivier sur mer,cherrueix,jullouville, avranches
+106;Saint jean le thomas vains dragee marcey les greves
+107;Champeaux, Pontorson, Beauvoir, Cancale, Céaux
+108;avranches granville saint-malo cancale saint pair sur mere
+109;Champeau, Saint Jean le Thomas, Avranches
+110;Cancale, Avranches, Pontorson,
+111;Beauvoir . st pair  .genets . st léonard .st jean le thomas
+112;Beauvoir, Pontorson, Avranches, Mortain, Saint-Hilaire-du-Harcouët
+113;Avranches ceaux beauvoir marcey les greves vains
+114;Pontorson , Beauvoir , Huisnes , Avranches , ducey
+115;le mont saint Michel,Avranches,Carolles,Cancales,Genets
+116;Roz-sur-Couesnon, Mont-Dol, Le Vivier-sur-Mer, Hirel, Saint-Benoît-des-Ondes, Saint-Méloir-des-Ondes et Cancale.
+117;Cancale, Avranches, Pontorson, Villedieux les poele, Granville
+118;Granville, Avranches, Dragée, Courtil, Beauvoir, Carolles, Jullouvilles Saint Jean le Thomas
+119;avranches pontorson st james  jullouville sartilly
+120;Saint James,Avranches,Beauvoir ,Saint pair sur mer,Granville
+121;Genêts, carolles,Champeaux,Avranches, vains
+122;Pontorson, Sartilly, Avranches, Le Mont Dol,
+123;Avranches. Pont ourson. Carolles
+124;Genêts,Marcey les grèves,Vains,St Léonard,Le val saint père
+125;Dol de Bretagne , Cancale , genets , Pontorson , Beauvoir
+126;Avranches, Beauvoir, Granville, Genêts, Pontaubault
+127;Avranches, Pontorson,  Pleine-fougeres, Roz sur couesnon...
+128;avranche - granville  - cancale - pontorson - malo
+129;Cancales Cherrueix
+130;Carolles,Saint Jean le Thomas,Avranches,Pontorson,Champeaux
+131;Granville , Villedieu les Poeles , Avranches
+132;Granville,Avranches,en Normandie Cancale en Bretagne
+133;Genets Cancale Saint-Jean-le-Thomas Pontorson Granville
+134;Avranches, Courtils, Ceaux, Dragey, Saint Jean le Thomas, Genêts
+135;Avranches, Genêts, Beauvoir, Courtils, Carolles
+136;Cancale, Avranches, Pontorson.....
+137;Genêts, julouville, pontorson, avancées
+138;Pontaubault ,Beauvais ,Val saint Per,Carolles,Ceaux ,
+139;saint  jean de thomas
+140;Genêts, pontaubault, vains, courtils, saint jean le Thomas
+141;Granville (départ pour les îles Chausey), Villedieu les Poêles (ah les fameuses cloches), Saint-Malô
+142;Granville, Cherrueix, Saint Benoit des Ondes, Hirel, Beauvoir ...
+143;Avranches Pontorson
+144;Pontorçon
+145;Granville Beauvoir Avranches Cancale Pontorson
+146;avranches,pontorson,granville,st pair sur mer,jullouville
+147;Dragey st Jean le Thomas genets  carolles vivier sur mer
+148;Avranches,Genets,Saint Leonard,Cancale,Cherrueix
+149;Avranches Carolles Jullouville Cherreuix le Vivier/Mer Cancale
+150;Jullouville , Pontorson , Cherrueix , Saint Broladre , Cancale
+151;Avranches, granville, cancale
+152;Granville ,St Jean le Thomas,Dragey,Genêts,Cancale,Cherrueix
+153;Pontorson Avranches Genêts St léonard le Val Saint Père
+154;Mont Saint-Michel, Beauvoir, Pontorson, Avranches, Genêts
+155;Le Val-saint-Père, Saint-Léonard, Genêts, Céaux, Courtils
+156;La commune Mont st Michel
+157;Granville courtille keron Carole Genet
+158;Cancale, Cherrueix
+159;Beauvoir, Marcey les grèves, Champeaux, St Jean le Thomas et Carolles
+160;Courtils, Huisne, Avranches
+161;Granvilke Carolles Vains Cancale St-Jean-le-Thomas
+162;Avranches, Genêts, Ardevon, Saint-Jean le Thomas, Cancale
+163;Avranche, Pontorson, Genet, Saint jean le Thomas, Granville, Keron, Julouville,  Saint Pair,
+164;Granville Avranches Pontorson Genêts Cancale
+165;Saint Père sur Mer , Jullouville , La Lucerne d'Outremer , Carole , Beauvoir
+166;Saint léonard ,Oui Geney ,Pontaubault,Céau,Beauvoir
+167;Avranches, Carolles, Genets, St jean le thomas, cherrueix
+168;Le Vivier sur Mer . St Benoit des Ondes .Cancale . Genêts. St Léonard
+169;cancale ,dol de bretagne ,pontorson ,avranches , granville
+170;saint malo,cancale,granville,juliouville
+171;Genêts, Avranches, Marcey-Les-Grèves, Carolles, Vains
+172;Dol de Bretagne, Granville, Hirel, Pontorson, Avranches,
+173;Granville-  st jean le thomas cancale
+174;Genêts, Le Val-Saint-Père, Courtils, Le Mont-Saint-Michel, Beauvoir
+175;Granville, avranches, dol de Bretagne, cancale
+176;Carolles, St-Jean-le-Thomas, Pontorson, Courtils, Avranches
+177;Avranche
+178;Courtils - Carolles - Champeaux - Le Mont Saint Michel - Le Val Saint Père
+179;Ducey granville
+180;Cancale,Pontorson,Dol de Bretagne ,Avranches,Granville
+181;Cancale granville julouville avranches pontorson
+182;Marcey les grèves, Beauvoir,Pontorson,Vains
+183;Granville, Cancale, Le Vivier sur Mer, Avranches, Villedieu-les-Poêles
+184;Genêts,  vains, Saint léonard,  marcey les grèves, ardevon
+185;St malo. Granville. Dinard.avranches. pontorson.
+186;Bancale Jullouville Avranches Saint Jean le Thomas Cherrueix
+187;Avranche granville
+188;cancale, le vivier sur mer, dol de bretagne, saint broladre, saint marcan, pontorson,
+189;LE MONT-SAINT-MICHEL, BEAUVOIR, COURTILS, AVRANCHES, GENETS
+190;Dol ,Cancal,Pontorson
+191;Avranches ,Granville ,Villedieu les poêles,Cancale,Mont Saint Michel
+192;Avranches Granville Saint Jean le Thomas Dragey
+193;Cancale,Avranches
+194;Avranches, Genets, Saint Jean le Thomas, Granville
+195;Cancale, cherrueix, genêts, carolles, granville
+196;Granville,Carolles,Sartilly,Avranches,Cancale (côté breton)
+197;saint jean le thomas,genêt,Pontorson,
+198;Avranches, Pontorson, Beauvoir
+199;Avranches, Granville, Pontorson
+200;Avranches, Granville, Pontorson
+201;Avranches, Pontorson,Granville, St pair sur Mer, Cancale
+202;CANCALE - ,PONTORSON - ,VAL SAINT PERE - ,BEAUVOIR ,ET LE MONT SAINT MICHEL
+203;Cancale,st Malo,
+204;Cancale, Saint-Malo, Granville, Villedieu-les-Poëles,Pontorson
+205;Avranches,Genêts
+206;granville,saint-pair...kairon...julouville..carollres ...saint jean le thomas...!granville,aint nicolas
+207;BEAUVOIR- HUISNES  SUR MER- GENETS- ST GEORGES DE GREHAIGNE- ARDEVIN -AVRANCHES
+208;Avranches, Granville, Cancale, Carolles, Jullouville
+209;Sartilly, Champeaux, Genêts, Marcey-les-grèves, Avranches.
+210;Couesnon . Tombaine . Huisnes-sur-mer. Genêts. Servon . Hameaux de belmon et saincey. Dragey .  Canrus  . Saint  jean le Thomas
+211;Granville,Avranches,Saint Malo
+212;Avranches, Pontorson, Cancales, Dol de Bretagne
+213;Pontorson,  Granville, Avranches,  cherrueix, beauvoir
+214;Cancale, Saint benoit des Ondes,  Cherrueix, Pontorson, Avranches
+215;Cancale , st benoit des ondes, st meloir
+216;Cancale, Avranches
+217;Cancale, Pontorson, Cherrueix, Genêts, Carolles
+218;Granville,Vivier-sur-Mer,Villedieu-les-Poêles
+219;Cancale, Genêt, Cherrueix, Granville, Saint Pair sur Mer
+220;Avranches- Marcey les grèves-cancale-vains
+221;Beauvoir,Hirel,Cherrueix,Avranches
+222;Granville, Avranches, DOL de Bretagne, Cancale, Le Vivier sur Mer
+223;Granville, Avranches, , Pontorson, Genêts, le Mont St michel
+224;Pontorson , cancale, le vivier su mer, cherrueix, saint Benoît des ondes, dinan même si c est un peu plus dans les terres
+225;- Cancale- Cherrueix - Grandville  - Avranches -Pontorson
+226;Granville, Jullouville ,Cancale
+227;Courty,Genêts,,Pontorson,,Ceux,,Beau voir,
+228;Pontorson , Dol , Avranches, Cancale
+229;avranches , Pontorson , dol , cancale
+230;PONTORSON  .  ARDEVO  . BEAUVOIR  . COUESNON  . AVRANCHE
+231;Cancale,Pontorson ,Avranche ,
+232;Le Vivier sur Mer,Pontorson ,Beauvoir
+233;Granville ,Cancale ,Cherrueix ,Commune du mt st michel,Roz sur couesno'
+234;Granville ?
+235;dinard, saint malo , granville
+236;Dol de Bretagne, Avranche, Ducey, St James
+237;Ardevon, Saint-Jean-Le-Thomas, Genêts, Vains, Saint-Léonard
+238;Mont dol,Beauvoir,hirel,le vivier sur mer ,saint -Benoît des ondes ,
+239;Les île chaussay granville
+240;GENETS CAROLLES DRAGEY AVRANCHES BACILLY
+241;arromanche, avranche, saint-malot,
+242;Mont-Dol / Cancale
+243;Granville, Avranches, Huynes-sur-Mer,Pontorson,Beauvoir
+244;Marité,Chausey,Granville,Avranches
+245;Genêts,Sartilly,Cancale,Vains,Saint léonard
+246;Le Vivier,Cherrueix, Champeaux, Avranches, Carolles, Granville en remontant ...
+247;Saint-Jean-le-Thomas, Dragey-Ronthon, Genêts, Vains, Marcey-les-Grèves.
+248;Granville, Pontorson
+249;Le Mont Saint-Michel, Avranches.
+250;Granville,Avranches,Cancale
+251;Avranches, Granville, Pontorson. Cancale Jullouville
+252;granville  cancale saint pair jullouville
+253;je ne sais pas
+254;jullouville - pontorson -courtils -genets -pontaubault
+255;GRANVILLE AVRANCHES PONTORSON CAROLLES ET MONT DOL
+256;Beauvoir - genêts - Tanis - courtils - roz sur couesnon -
+257;genets,bec d andain courtils
+258;cherrueix, beauvoir, pontaubault
+259;Pontorson,  Granville,  Avranches,  saint Jean Le thomas, Jullouville
+260;Avranches, Granville, Cancale
+261;coutances  cancale  dinan   
+262;Granville, Carole, Jullouville, Cancale
+263;SAINT PAIR - JULLOUVILLE - CAROLLES
+264;Avranche         VIre
+265;Granville  Cancale  Avranches  Saint Pair  Jullouville  Carrolles  Dol de Bretagne
+266;le vivier sur mer + cherrueix + dragey + Beauvoir + avranches
+267;Avranches,Granville,Cancale,Pontaubault,St Jean le Thomas
+268;avranches, granville, , saint malo, saint pair, cancale,
+269;Saint-Jean-le-Thomas, Avranches, Genêts, Ceaux, Vains
+270;avranche  pontorson  pontaubault    cancale  
+271;Granville,Avranches,Ville Dieu les poêles,le Mortainais,Pontorson
+272;GRANVILLE AVRANCHES PONTORSON MONT DOL CANCALE
+273;granville-avranches-huisne sur mer-ceaux-carolles
+274;BEAUVOIR      HUISNES SUR MER       GENETS     TANIS     COURTILS
+275;Avranches,Granville,Mortain,Villedieu
+276;Granville ,Avranches,Le Mont-Saint-Michel,Cancale,Pontorson ,
+277;GRANVILLE - AVRANCHES - PONTORSON - LE MONT ST MICHEL - CANCALE
+278;Pontorson, Avranches, Granville en Normandie et Cancale pour la Bretagne
