@@ -7,16 +7,23 @@ Created on Wed Oct  3 08:28:56 2018
 
 ###########################################################################
 # Application : find citys in 'baie de saint de michel' cited in survey   #
-# Survey      : TOURS                                                     #
-# Program name: mini_projet_v0.00.py                                      #
+# Program name: mini_projet_v0.01.py                                      #
 # Description : version with no relative so it can runed by anyone        #
 #________________________________________________________________         #
 # Localisation: https://github.com/Ibrwa/Mini_projet/mini_projet_v0.00.py #           #
 # Developped     : Under spyder in Windows                                #
 #________________________________________________________________         #
 # Creation    : 10/10/2018 by Ibrwa                                       #    
-# Last Updated: 15/10/2018 remove relative path in importing files		  #
+# Last Updated: 26/10/2018 remove relative path in importing files		  #
 #________________________________________________________________         #
+
+
+###########################################################################    
+######################## Modifications:####################################
+#20181026: Create a function that will splitts the responses with all 
+# possible separators 
+
+
 
 
 ### Import the library 
@@ -29,7 +36,7 @@ import matplotlib.pyplot as plt, matplotlib
 matplotlib.style.use('ggplot')
 
 ### define ponctuation caracters==> can be enhcanced !!
-punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~ '''
+punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~+ '''
 
 
 ## Read the data that contains all city (commune) in France. Can be found in insee website
@@ -143,10 +150,23 @@ top_villes = bitmap_data.apply(calcul_sum,axis=0).sort_values(ascending=False)
 
 top_villes = pd.DataFrame({'villes':top_villes.index.tolist(),'total':top_villes})
 
+## Order the column
+
+## Orrder the column 
+top_villes = top_villes[['villes','total']].reset_index(drop=True)
+
+### Filter only in city which it's match 
+
+top_villes = top_villes.loc[top_villes['total']>0]
+
+## export to csv 
+
+top_villes.to_csv("top_villes.0.01.csv",index = False)
+
 #### Graphique en barplot ####################
 _, ax = plt.subplots()
 ax.barh(top_villes['villes'][:10], top_villes['total'][:10], color = '#539caf', align = 'center')
-ax.set_ylabel("Pourcentage %")
+ax.set_ylabel("Nombre total")
 ax.set_xlabel("Nom de la ville")
 ax.set_title("Top 10 des villes les plus citées")
 plt.show()
